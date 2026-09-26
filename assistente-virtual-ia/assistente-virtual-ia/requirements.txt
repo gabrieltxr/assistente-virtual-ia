@@ -1,0 +1,7 @@
+# Este projeto usa apenas a biblioteca padrão do Python 3.8+.
+# Nenhuma dependência externa é necessária para rodar src/app.py.
+#
+# Se decidir evoluir para uma versão com LLM real (ver docs/03-prompts.md),
+# descomente e ajuste conforme o provedor escolhido:
+# anthropic>=0.30.0
+# openai>=1.0.0

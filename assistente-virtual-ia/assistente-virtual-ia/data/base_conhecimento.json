@@ -1,0 +1,72 @@
+[
+  {
+    "id": "cdi",
+    "categoria": "conceito",
+    "tags": ["cdi", "taxa", "renda fixa", "cdb"],
+    "pergunta": "O que é CDI?",
+    "resposta": "CDI (Certificado de Depósito Interbancário) é uma taxa de referência usada pelos bancos para operações entre si. Na prática, ela serve como um termômetro para investimentos de renda fixa: quando um CDB rende '100% do CDI', significa que ele acompanha essa taxa. O CDI costuma ficar bem próximo da taxa Selic."
+  },
+  {
+    "id": "selic",
+    "categoria": "conceito",
+    "tags": ["selic", "juros", "taxa basica", "banco central"],
+    "pergunta": "O que é a taxa Selic?",
+    "resposta": "A Selic é a taxa básica de juros da economia brasileira, definida pelo Banco Central. Ela influencia todas as outras taxas de juros do país: quando a Selic sobe, financiamentos e crédito ficam mais caros, mas a renda fixa tende a render mais."
+  },
+  {
+    "id": "reserva_emergencia",
+    "categoria": "conceito",
+    "tags": ["reserva de emergencia", "reserva", "emergencia", "poupanca"],
+    "pergunta": "O que é reserva de emergência e quanto devo guardar?",
+    "resposta": "Reserva de emergência é um valor guardado para imprevistos (perda de renda, contas médicas, reparos urgentes), que deve ficar em um investimento de fácil acesso e baixo risco, como um CDB com liquidez diária ou Tesouro Selic. Uma referência comum é guardar entre 3 e 6 meses do seu custo de vida mensal, mas isso pode variar conforme sua estabilidade de renda."
+  },
+  {
+    "id": "juros_compostos",
+    "categoria": "conceito",
+    "tags": ["juros compostos", "juros", "rendimento", "simulacao"],
+    "pergunta": "Como funcionam os juros compostos?",
+    "resposta": "Juros compostos significam que os juros de um período passam a compor o valor total, gerando juros sobre juros nos períodos seguintes. Por isso o crescimento de um investimento (ou de uma dívida) acelera com o tempo. A fórmula básica é: Valor Final = Valor Inicial x (1 + taxa) elevado ao número de períodos. Você pode pedir para eu simular isso com seus números."
+  },
+  {
+    "id": "tesouro_direto",
+    "categoria": "conceito",
+    "tags": ["tesouro direto", "tesouro", "titulo publico"],
+    "pergunta": "O que é o Tesouro Direto?",
+    "resposta": "Tesouro Direto é um programa do governo federal que permite investir em títulos públicos, considerados um dos investimentos mais seguros do país. Existem diferentes tipos, como o Tesouro Selic (indicado para reserva de emergência) e o Tesouro IPCA+ (protege contra a inflação, indicado para objetivos de longo prazo)."
+  },
+  {
+    "id": "score_credito",
+    "categoria": "conceito",
+    "tags": ["score", "credito", "score de credito", "restricao"],
+    "pergunta": "O que é o score de crédito e como ele funciona?",
+    "resposta": "O score de crédito é uma pontuação (geralmente de 0 a 1000) que estima o risco de você não pagar uma dívida, com base no seu histórico financeiro. Pagar contas em dia, evitar uso excessivo do limite do cartão e manter dados cadastrais atualizados ajudam a manter um score mais alto."
+  },
+  {
+    "id": "cartao_credito",
+    "categoria": "conceito",
+    "tags": ["cartao de credito", "fatura", "limite", "rotativo"],
+    "pergunta": "Como usar o cartão de crédito sem cair em dívida?",
+    "resposta": "A prática mais segura é pagar a fatura integral todo mês, evitando o crédito rotativo, que tem juros muito altos. Também ajuda planejar os gastos dentro de um limite que caiba no seu orçamento mensal, e não apenas dentro do limite total do cartão."
+  },
+  {
+    "id": "financiamento",
+    "categoria": "conceito",
+    "tags": ["financiamento", "parcelamento", "emprestimo"],
+    "pergunta": "O que devo considerar antes de fazer um financiamento?",
+    "resposta": "Antes de financiar algo, vale comparar o Custo Efetivo Total (CET), que inclui juros e taxas, e não apenas a taxa de juros anunciada. Também é importante verificar se as parcelas cabem confortavelmente no seu orçamento mensal, deixando espaço para imprevistos. Você pode pedir para eu simular um financiamento com seus números."
+  },
+  {
+    "id": "diversificacao",
+    "categoria": "conceito",
+    "tags": ["diversificacao", "carteira", "risco"],
+    "pergunta": "O que é diversificação de investimentos?",
+    "resposta": "Diversificação é distribuir seu dinheiro entre diferentes tipos de investimento (renda fixa, renda variável, diferentes emissores e prazos) para reduzir o risco. A ideia é que, se um investimento tiver um desempenho ruim, outros possam compensar."
+  },
+  {
+    "id": "inflacao",
+    "categoria": "conceito",
+    "tags": ["inflacao", "ipca", "poder de compra"],
+    "pergunta": "Como a inflação afeta meus investimentos?",
+    "resposta": "A inflação reduz o poder de compra do dinheiro ao longo do tempo. Por isso, é importante comparar o rendimento de um investimento com a inflação do período (medida geralmente pelo IPCA): se o rendimento for menor que a inflação, você está perdendo poder de compra, mesmo que o valor em reais tenha crescido."
+  }
+]

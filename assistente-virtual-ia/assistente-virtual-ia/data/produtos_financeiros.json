@@ -1,0 +1,50 @@
+[
+  {
+    "id": "cdb_liquidez_diaria",
+    "nome": "CDB Liquidez Diária",
+    "tags": ["cdb", "liquidez diaria", "reserva de emergencia"],
+    "descricao": "Título de renda fixa emitido por bancos, com resgate disponível a qualquer momento. Rende um percentual do CDI. Indicado para reserva de emergência, por unir segurança e acesso rápido ao dinheiro.",
+    "risco": "baixo",
+    "indicado_para": "reserva de emergência, curto prazo"
+  },
+  {
+    "id": "tesouro_selic",
+    "nome": "Tesouro Selic",
+    "tags": ["tesouro", "selic", "reserva de emergencia"],
+    "descricao": "Título público pós-fixado que acompanha a taxa Selic. Considerado um dos investimentos mais seguros do país, com liquidez diária.",
+    "risco": "baixo",
+    "indicado_para": "reserva de emergência, objetivos de curto prazo"
+  },
+  {
+    "id": "tesouro_ipca",
+    "nome": "Tesouro IPCA+",
+    "tags": ["tesouro", "ipca", "longo prazo", "inflacao"],
+    "descricao": "Título público que paga a variação da inflação (IPCA) mais uma taxa fixa. Indicado para objetivos de longo prazo, pois protege o poder de compra do dinheiro.",
+    "risco": "baixo a moderado (se vendido antes do vencimento pode ter oscilação de preço)",
+    "indicado_para": "aposentadoria, objetivos de longo prazo"
+  },
+  {
+    "id": "cdb_prefixado",
+    "nome": "CDB Prefixado",
+    "tags": ["cdb", "prefixado"],
+    "descricao": "Título de renda fixa com taxa de juros definida no momento da aplicação, sem depender de índices futuros. Faz sentido quando você acredita que os juros vão cair.",
+    "risco": "baixo (garantido pelo FGC até o limite legal)",
+    "indicado_para": "médio prazo, quem quer previsibilidade"
+  },
+  {
+    "id": "fundos_multimercado",
+    "nome": "Fundos Multimercado",
+    "tags": ["fundo", "multimercado", "diversificacao"],
+    "descricao": "Fundos que investem em diferentes classes de ativos (renda fixa, ações, câmbio, etc.), buscando diversificação e retorno acima da renda fixa tradicional, com risco também maior.",
+    "risco": "moderado a alto, varia por fundo",
+    "indicado_para": "quem já tem reserva de emergência formada e busca diversificação"
+  },
+  {
+    "id": "cartao_credito_basico",
+    "nome": "Cartão de Crédito",
+    "tags": ["cartao de credito", "credito"],
+    "descricao": "Permite compras a prazo com pagamento consolidado em fatura mensal. Cuidado com o crédito rotativo, que tem uma das taxas de juros mais altas do mercado.",
+    "risco": "não se aplica (produto de crédito, não investimento)",
+    "indicado_para": "organização de compras do dia a dia, quando a fatura é paga integralmente"
+  }
+]

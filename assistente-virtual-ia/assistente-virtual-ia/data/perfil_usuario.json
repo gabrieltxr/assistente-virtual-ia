@@ -1,0 +1,15 @@
+{
+  "nome": "Marina",
+  "perfil_investidor": "moderado",
+  "possui_reserva_emergencia": false,
+  "renda_mensal_estimada": 4200.00,
+  "gastos_por_categoria_mes_atual": {
+    "moradia": 1380.00,
+    "alimentacao": 570.00,
+    "transporte": 310.00,
+    "lazer": 240.00,
+    "assinaturas": 95.00,
+    "outros": 180.00
+  },
+  "saldo_conta": 1250.30
+}
